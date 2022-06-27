@@ -1,6 +1,6 @@
 # DCGANs
 
-Deep Convolutional Generative Advarsarial Network piple implementation to test(generate) Fashion MNIST data.
+Deep Convolutional Generative Advarsarial Network pipeline implementation to test(generate) Fashion MNIST data.
 
 This is implemented using Tensorflow and Keras libraries.
 
